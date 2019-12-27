@@ -1,1 +1,4 @@
-### A scikit-learn implementation of a simple Naive Bayes Classification
+### A simple scikit-learn implementation of Naive Bayes classification
+
+* a supervised learning: classification primer
+* that uses Iris dataset
